@@ -13,7 +13,7 @@ import './App.css'
 
 function App() {
   return (
-    <Router>
+		<Router basename="/the-therapeutic-teacher/">
       <div className="min-h-screen bg-background">
         <ScrollToTop />
         <Navigation />
